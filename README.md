@@ -1,7 +1,7 @@
 testing today.
 dependencies:
 client:
-axios, moment, react-file-base64, redux, redux-thunk
+axios, moment, react-file-base64, redux, redux-thunk, @matrial-ui/core, react-redux, @mui/styles
 server: 
 express, body-parser, cors, nodemon, mongoose
 
