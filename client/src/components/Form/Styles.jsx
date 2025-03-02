@@ -17,6 +17,8 @@ const formStyles = {
 const fileInputStyles = {
   width: '97%',
   my: 1, // Equivalent to margin: '10px 0'
+  marginTop: '3px',
+  marginBottom: '7px',
 };
 
 const buttonSubmitStyles = {
